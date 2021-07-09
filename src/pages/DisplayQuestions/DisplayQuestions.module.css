@@ -1,0 +1,43 @@
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.send {
+    margin-top: 20px;
+}
+
+
+.inputWrapp {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.inx {
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.good {
+    background-color: green;
+}
+
+.bad {
+    background-color: red;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reset {
+    margin-left: 10px;
+}
